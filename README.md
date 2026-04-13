@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://raw.githubusercontent.com/GT13thmodguy/TheMonkeModMenu/1ffca33ff3dfd2ebad633addeff69765c75fde74/D8A29FE3-B83A-4E34-BACF-19FCD8417460.png)" width="600"/>
+  <img src="https://raw.githubusercontent.com/GT13thmodguy/TheMonkeModMenu/1ffca33ff3dfd2ebad633addeff69765c75fde74/D8A29FE3-B83A-4E34-BACF-19FCD8417460.png" width="600"/>
 </p>
 
 THE MONKE MOD MENU Made by GT13
