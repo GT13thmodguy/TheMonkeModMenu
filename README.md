@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GT13thmodguy/TheMonkeModMenu/main/DA829FE3-B83A-4E34-BACF-19FCD8417460.png" width="600"/>
+</p>
 THE MONKE MOD MENU Made by GT13
 _________________________________
 What are the mods?
